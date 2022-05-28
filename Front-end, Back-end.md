@@ -21,7 +21,7 @@
 |언어|프레임워크|
 |--|--|
 |C++|C#|
-|Java|Sping|
+|Java|Spring|
 |Python|Django|
 
 ### 개발자로서 가져야할 덕목
