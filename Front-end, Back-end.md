@@ -10,15 +10,16 @@
 
 #### 사용되는 프로그래밍 언어와 프레임워크
 
-##### 프론트엔드에서 사용되는 것
-|언어|
-|--|
-|HTML|
-|CSS|
-|Javascript|
+프론트엔드에서 사용되는 것
+|언어|프레임워크|
+|--|--|
+|HTML|Bootstrap|
+|CSS|Bootstrap|
+|Javascript|ReactJS,AngularJS|
 
-|프레임워크|
-|--|
-|AngularJS|
-|ReactJS|
-|Bootstrap|
+백엔드에서 사용되는 것
+|언어|프레임워크|
+|--|--|
+|C++|C#|
+|Java|Sping|
+|Python|Django|
