@@ -7,3 +7,5 @@
 3. [이클립스](https://github.com/HiKim95/Hi-Kim/blob/main/Eclipse.md#%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EB%8B%A8%EC%B6%95%ED%82%A4)
 
 4. [변수의 개념](https://github.com/HiKim95/Hi-Kim/blob/main/Variable.md#%EB%B3%80%EC%88%98%EC%9D%98-%EA%B0%9C%EB%85%90)
+
+5. [상수와 리터럴](https://github.com/HiKim95/Hi-Kim/blob/main/Contant%2C%20Literal.md#%EC%83%81%EC%88%98%EC%99%80-%EB%A6%AC%ED%84%B0%EB%9F%B4)
