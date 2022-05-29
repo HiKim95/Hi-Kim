@@ -10,3 +10,10 @@ tap, shift + tap : 들여쓰기
 ctrl + i : 자동 들여쓰기  
 ctrl + / : 주석(토글)  
 ctrl + space : 자동 완성  
+
+### 에러 메세지
+
+Description : 에러의 원인  
+Resource : 소스 파일 이름  
+Path : 소스파일의 경로
+Location : 에러가 발생한 라인
