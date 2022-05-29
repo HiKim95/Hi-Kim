@@ -9,3 +9,5 @@
 4. [변수의 개념](https://github.com/HiKim95/Hi-Kim/blob/main/Variable.md#%EB%B3%80%EC%88%98%EC%9D%98-%EA%B0%9C%EB%85%90)
 
 5. [상수와 리터럴](https://github.com/HiKim95/Hi-Kim/blob/main/Contant%2C%20Literal.md#%EC%83%81%EC%88%98%EC%99%80-%EB%A6%AC%ED%84%B0%EB%9F%B4)
+
+6. [문자와 문자열](https://github.com/HiKim95/Hi-Kim/blob/main/char%2C%20string.md#%EB%AC%B8%EC%9E%90%EC%99%80-%EB%AC%B8%EC%9E%90%EC%97%B4)
