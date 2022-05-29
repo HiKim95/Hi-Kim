@@ -32,9 +32,11 @@ int x = 100; : 위 두줄을 한줄로
 
 ### 5. 값의 타입
 
-문자 : char  
-숫자(정수) : byte, short, int, long  
-숫자(실수) : float, double  
-논리 : boolean(true or false 저장 가능)  
+|종류||
+|--|--|
+|문자형|char|  
+|숫자(정수형)|byte, short, int, long|  
+|숫자(실수형)|float, double|  
+|논리|boolean(true or false 저장 가능)|  
 
 위 여덟개의 변수를 기본형 변수라고함
