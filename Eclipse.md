@@ -15,5 +15,5 @@ ctrl + space : 자동 완성
 
 Description : 에러의 원인  
 Resource : 소스 파일 이름  
-Path : 소스파일의 경로
+Path : 소스파일의 경로  
 Location : 에러가 발생한 라인
