@@ -15,6 +15,6 @@
 07. [형식화된 출력](https://github.com/HiKim95/Hi-Kim/blob/main/Print.md#%ED%98%95%EC%8B%9D%ED%99%94%EB%90%9C-%EC%B6%9C%EB%A0%A5---printf)
 
 08. [화면에서 입력받기](https://github.com/HiKim95/Hi-Kim/blob/main/Scanner.md#%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%9E%85%EB%A0%A5%EB%B0%9B%EA%B8%B0---scanner)
-09. [연산자](https://github.com/HiKim95/Hi-Kim/blob/main/Operator.md#%EC%97%B0%EC%82%B0%EC%9E%90)
+09. [연산자의 종류](https://github.com/HiKim95/Hi-Kim/blob/main/Operator.md#%EC%97%B0%EC%82%B0%EC%9E%90)
 10. [자동 형변환](https://github.com/HiKim95/Hi-Kim/blob/main/auto%20cast.md#%EC%9E%90%EB%8F%99-%ED%98%95%EB%B3%80%ED%99%98)
-11. 
+11. [반올림과 연산자의 계산](https://github.com/HiKim95/Hi-Kim/blob/main/Round-off.md#%EB%B0%98%EC%98%AC%EB%A6%BC---mathround)
