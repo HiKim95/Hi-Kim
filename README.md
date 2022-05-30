@@ -16,3 +16,4 @@
 
 8. [화면에서 입력받기](https://github.com/HiKim95/Hi-Kim/blob/main/Scanner.md#%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EC%9E%85%EB%A0%A5%EB%B0%9B%EA%B8%B0---scanner)
 9. [연산자](https://github.com/HiKim95/Hi-Kim/blob/main/Operator.md#%EC%97%B0%EC%82%B0%EC%9E%90)
+10. [자동 형변환](https://github.com/HiKim95/Hi-Kim/blob/main/auto%20cast.md#%EC%9E%90%EB%8F%99-%ED%98%95%EB%B3%80%ED%99%98)
