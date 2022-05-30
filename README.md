@@ -11,3 +11,5 @@
 5. [상수와 리터럴](https://github.com/HiKim95/Hi-Kim/blob/main/Contant%2C%20Literal.md#%EC%83%81%EC%88%98%EC%99%80-%EB%A6%AC%ED%84%B0%EB%9F%B4)
 
 6. [문자와 문자열](https://github.com/HiKim95/Hi-Kim/blob/main/char%2C%20string.md#%EB%AC%B8%EC%9E%90%EC%99%80-%EB%AC%B8%EC%9E%90%EC%97%B4)
+
+6. [형식화된 출력](https://github.com/HiKim95/Hi-Kim/blob/main/Print.md#%ED%98%95%EC%8B%9D%ED%99%94%EB%90%9C-%EC%B6%9C%EB%A0%A5---printf)
