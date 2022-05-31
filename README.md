@@ -19,4 +19,4 @@
 10. [자동 형변환](https://github.com/HiKim95/Hi-Kim/blob/main/auto%20cast.md#%EC%9E%90%EB%8F%99-%ED%98%95%EB%B3%80%ED%99%98)
 11. [반올림과 연산자의 계산](https://github.com/HiKim95/Hi-Kim/blob/main/Round-off.md#%EB%B0%98%EC%98%AC%EB%A6%BC---mathround)
 12. [조건문](https://github.com/HiKim95/Hi-Kim/blob/main/conditional%20statements.md#%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC-%EB%B0%98%EB%B3%B5%EB%AC%B8)
-13.
+13. [반복문](https://github.com/HiKim95/Hi-Kim/blob/main/13.%20iteration%20statements.md#for%EB%AC%B8)
