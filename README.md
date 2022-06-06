@@ -28,4 +28,6 @@
 
 14. [배열](https://github.com/HiKim95/Hi-Kim/blob/main/14.%20array.md#%EB%B0%B0%EC%97%B4)
 
-15.
+15. [String클래스](https://github.com/HiKim95/Hi-Kim/blob/main/15.%20String.md#string%ED%81%B4%EB%9E%98%EC%8A%A4)
+
+16. []()
