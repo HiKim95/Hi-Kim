@@ -40,4 +40,4 @@
 
 20. [메서드란](https://github.com/HiKim95/Hi-Kim/blob/main/20.%20Method.md#%EB%A9%94%EC%84%9C%EB%93%9C%EB%9E%80)
 
-21. [매개변수]()
+21. []()
