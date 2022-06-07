@@ -36,4 +36,8 @@
 
 18. [객체지향 언어](https://github.com/HiKim95/Hi-Kim/blob/main/18.%20Object%20oriented.md#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%96%B8%EC%96%B4)
 
-19. [메서드]()
+19. [변수의 종류](https://github.com/HiKim95/Hi-Kim/blob/main/19.%20Category%20of%20variable.md#%EC%84%A0%EC%96%B8-%EC%9C%84%EC%B9%98%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%B3%80%EC%88%98%EC%9D%98-%EC%A2%85%EB%A5%98)
+
+20. [메서드란](https://github.com/HiKim95/Hi-Kim/blob/main/20.%20Method.md#%EB%A9%94%EC%84%9C%EB%93%9C%EB%9E%80)
+
+21. [매개변수]()
