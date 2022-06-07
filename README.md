@@ -28,7 +28,7 @@
 
 14. [배열](https://github.com/HiKim95/Hi-Kim/blob/main/14.%20array.md#%EB%B0%B0%EC%97%B4)
 
-15. [String클래스](https://github.com/HiKim95/Hi-Kim/blob/main/15.%20String.md#string%ED%81%B4%EB%9E%98%EC%8A%A4)
+15. [String 클래스](https://github.com/HiKim95/Hi-Kim/blob/main/15.%20String.md#string%ED%81%B4%EB%9E%98%EC%8A%A4)
 
 16. [2차원 배열](https://github.com/HiKim95/Hi-Kim/blob/main/16.%20Two%20dimensional%20array.md#2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4)  
 
