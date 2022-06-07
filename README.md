@@ -35,3 +35,5 @@
 17. [Arrays 클래스](https://github.com/HiKim95/Hi-Kim/blob/main/17.%20Arrays%20class.md#arrays-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C-%EB%B0%B0%EC%97%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0)  
 
 18. [객체지향 언어](https://github.com/HiKim95/Hi-Kim/blob/main/18.%20Object%20oriented.md#%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%96%B8%EC%96%B4)
+
+19. [메서드]()
