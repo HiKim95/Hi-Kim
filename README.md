@@ -32,4 +32,6 @@
 
 16. [2차원 배열](https://github.com/HiKim95/Hi-Kim/blob/main/16.%20Two%20dimensional%20array.md#2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4)  
 
-17. [Arrays 클래스]()  
+17. [Arrays 클래스](https://github.com/HiKim95/Hi-Kim/blob/main/17.%20Arrays%20class.md#arrays-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A1%9C-%EB%B0%B0%EC%97%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0)  
+
+18. [객체지향 언어] ()
